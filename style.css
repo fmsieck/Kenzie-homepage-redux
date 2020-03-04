@@ -1,0 +1,71 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Base Styles */
+.body {
+  background-color: darkkhaki;
+}
+
+.navbar {
+  background-color: darksalmon;
+}
+
+.hero-picture {
+  background-color: dimgray;
+}
+
+.quotes {
+  background-color: green;
+}
+
+.Programs {
+  background-color: lightseagreen;
+}
+
+.Sections {
+  background-color: lightskyblue;
+}
+
+.Forms {
+  background-color: rgb(46, 63, 11);
+}
+
+.Checkbox {
+  color: whitesmoke;
+}
+
+.Inputs {
+  color: palegreen;
+}
+
+.Buttons {
+  color: darkblue;
+}
+
+/* Layout Styles */
+
+.Sections__compare-programs {
+  color: gray;
+}
+
+.Sections__meet-kenzie {
+  color: blue;
+}
+
+.navbar-buttons {
+  width: 24px;
+  color: blue;
+}
+
+.lets-chat {
+  width: 50vw;
+}
+
+.Forms-application {
+  color: lightgoldenrodyellow;
+}
+
+/* Block Styles */
